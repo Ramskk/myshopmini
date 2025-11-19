@@ -1,5 +1,12 @@
 # utsmobile
 
+Tampilan
+<img width="321" height="718" alt="image" src="https://github.com/user-attachments/assets/7c44dbaa-a947-4078-92f8-a34b27487fe6" />
+<img width="319" height="714" alt="image" src="https://github.com/user-attachments/assets/d412e648-97cf-4efc-97ff-3e3a35652e93" />
+<img width="318" height="718" alt="image" src="https://github.com/user-attachments/assets/cc4f14bf-357a-41d1-b972-08d3099b8eb2" />
+
+
+
 Widget Utama & Fungsinya
 
 
